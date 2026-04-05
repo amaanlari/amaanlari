@@ -5,11 +5,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header&fontColor=58A6FF" width="100%"/>
 
-</div>
-
----
-
-<div align="center" margin=50>
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
