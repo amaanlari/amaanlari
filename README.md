@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning Spring Boot Micro-services and Spring AI
+Backend Engineer with production experience in Java, Spring Boot, Kafka & microservices.
 
 
 ## 🌐 Socials:
