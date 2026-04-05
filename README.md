@@ -5,18 +5,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=120&section=header&fontColor=58A6FF" width="100%"/>
 
-
-```
+<pre align="center">
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║          Mohammad Amaan Lari  ·  Backend Engineer            ║
 ║          Java  ·  Kafka  ·  Spring Boot  ·  Microservices    ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
-```
+</pre>
 
 </div>
-
 ---
 
 ## 🟢 Open to Work
