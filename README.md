@@ -56,12 +56,12 @@ Java, Spring Boot, Apache Kafka, system design, and pushing Blogger Hub and the 
 
 ---
 
-## Technical Writing
+<!-- ## Technical Writing
 
 Coming soon.
 
 ---
-
+-->
 ## Connect
 
 **Portfolio:** [amaanlari.me](https://amaanlari.me)
