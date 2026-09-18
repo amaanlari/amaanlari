@@ -31,7 +31,7 @@ My first publicly deployed full-stack project — a blogging platform, currently
 
 This is a working v1, not a finished product — some backend APIs exist ahead of their frontend integration. Next up: image upload to blob storage, Markdown-rendered images, and a smoother OTP flow.
 
-### Razorpay Clone — *In Development*
+### [Razorpay](https://github.com/amaanlari/razorpay) — *In Development*
 A Razorpay-inspired payment platform, currently built as a monolith. The explicit goal here is the architectural evolution itself: decompose into clear domain boundaries, then move toward microservices with event-driven communication between them. Documenting that process as I go.
 
 ### [Oppia](https://github.com/amaanlari/oppia) — Open Source
